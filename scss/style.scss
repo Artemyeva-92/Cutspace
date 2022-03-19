@@ -55,10 +55,9 @@ body{
     align-items: center;
     margin: 100px auto;
     @media (max-width: 992px){
-        flex-direction:column;
-        width: 100%;
+        flex-direction: column;
+        width: 100%; 
     }
-
 }
 
 .main-heading, .text{
